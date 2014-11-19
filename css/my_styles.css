@@ -1,0 +1,13 @@
+body {
+    background-image: url("../img/arctic-1-png.png");
+    background-repeat: no-repeat;
+} 
+
+p {
+
+	font-size: 23px;
+}
+
+p.redtext {
+	color: #E31045;
+}
