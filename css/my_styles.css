@@ -10,4 +10,15 @@ p {
 
 p.redtext {
 	color: #E31045;
+	padding-left: 2em;
 }
+
+p.main_blog, p.second_main{
+	padding-left: 3em;
+}
+
+
+
+
+
+
